@@ -54,23 +54,28 @@ Hello! I'm Michael Grant, a dedicated and passionate software developer with exp
 **Description:** This is a project that I am working on for a Florida-based tennis club. I was sought out in April about this app, and am since working closely with the company to provide an app that lets users log in and reserve tennis courts, as well as make lessons for themselves with any of FM's hired trainers. They would also like to include the ability to let users buy their own merch. This application is still a work in progress.
 ## Experience
 
-### Five Guys LLC
-**Role:** Crew Member
-**Duration:** [Start Date] - [End Date]
+**Five Guys Enterprises, LLC** 	| November 2019- October 2021					
+_Crew Member & Trainer_
+- Requested by 3 store locations, to refocus the store to achieve company goals (i.e. speed, safety, teamwork, etc.)
+- Offered management & training position, within 4 months of joining
+- Directed phone calls, answering inquiries regarding our selection, the store, and placing orders
+- Prioritizing customers satisfaction raising our store satisfaction to a 100% satisfactory rating.
+- Operated and maintenances of POS and Coke Machines
 
-**Responsibilities:**
-- Responsibility 1
-- Responsibility 2
-- Responsibility 3
 
-### Darden Restaurants - Longhorn/Olive Garden
-**Role:** Trainer
-**Duration:** [Start Date] - [End Date]
+**Darden Restaurants Inc** | November 2021 – July 2023		
+_Server_	
+- Conversed and connected with customers formulating relationships while fulfilling food request
+- Advertised all ongoing loyalty programs and product with every customer interaction
+- Awarded 1st place on customer satisfactory out of 70 employees
+- Presented with management opportunity
 
-**Responsibilities:**
-- Responsibility 1
-- Responsibility 2
-- Responsibility 3
+July 2023 – CURRENT
+_Trainer_
+- Coached struggling employees to meet company standards
+- Facilitated employee improvement plans
+- Led individuals on company protocol and procedures
+
 
 ## Education
 
