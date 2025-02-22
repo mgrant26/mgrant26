@@ -1,6 +1,6 @@
-# Hello 👋
+# Welcome!
 
-- 🔭 I’m currently have no open projects.
+- 🔭 I currently have no open projects.
 - 🌱 I’m currently learning cloud-based applications.
 - 💬 Ask me about my first HTML project.
 - 😄 Pronouns: he/him
