@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning cloud-based applications.
 - 💬 Ask me about my first HTML project.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love pokemon and have been playing since I was a kid!
+- ⚡ Fun fact: I love Yu-Gi-Oh and have been playing since I was a kid!
 
 
 
