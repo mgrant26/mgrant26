@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 🔭 I’m currently working on a timecard/rental app for Florida FM
+- 🔭 I’m currently have no open projects.
 - 🌱 I’m currently learning cloud-based applications.
 - 💬 Ask me about my first HTML project.
 - 😄 Pronouns: he/him
