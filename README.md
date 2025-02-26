@@ -38,7 +38,7 @@ I believe software development is more than just problem-solving; it’s an art.
 Let’s connect and build something amazing together! 🚀  
 
 ## My Family
-I enjoy spending time with my fiancé, my two dogs, and my cat, as well as enjoying the outdoors and new experiences. I love doing the things that I enjoy, and I use that drive to translate into my work.
+I love spending time with my fiancé, my two dogs, and my cat, whether we’re out exploring or just enjoying a quiet night together. I’m always up for new experiences, whether it’s trying a new food, traveling somewhere unexpected, or finding a new hobby to dive into. The things I love keep me grounded and inspired, and I try to bring that same sense of excitement and curiosity into everyday life.
 
 ## Skills
 
